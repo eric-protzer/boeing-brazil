@@ -1,16 +1,18 @@
 # Boeing Brazil - Bibliographic Discovery Tool
 
-This tool can be used to search the SciELO on-line scientific library. SciELO is an open access electronic database that covers open-access publications. It was established in Brazil in 1997, but now covers 14 countries, mostly in Latin America (see http://www.scielo.org). This tool covers Brazilian publications only, and will yield information on papers related to your specific search term (i.e. title, abstract, authors, affiliations, and a DOI code which can be used to find the original paper). 
+This tool can be used to search the SciELO on-line scientific library. SciELO is an open access electronic database containing open-access technical publications. It was established in Brazil in 1997, and now covers 14 countries, mostly in Latin America (see http://www.scielo.org). 
 
-There are several reasons you may want to use this script instead of using SciELO’s online search tool:
+This tool covers Brazilian publications only.  It searchers for occurrences of user-defined search term(s) in titles and abstracts, and returns each paper’s title, abstract, author(s), affiliation(s), and a Digital Object Identifier (DOI) which can be used to find the original paper.
+
+There are several reasons to use this script instead of SciELO’s online search tool:
 
 1) It searches in English and Portuguese at the same time.
 
-2) It covers Brazilian technical research exclusively, with no non-technical publications nor papers from other countries. 
+2) It covers Brazilian technical research exclusively.  Non-technical publications and papers from other countries are not included. 
 
-3) It show results that both contain your specified keywords and keywords related to your search term.
+3) It shows results that contain both specified search terms and related research topics.
 
-4) It shows papers grouped into thematic 'clusters' which pertain to specific research topics , which may make it easier to navigate exact research themes.
+4) It shows papers grouped into thematic 'clusters' which pertain to specific research topics, which may make it easier to navigate exact research themes.
 
 ## How to Use:
 
